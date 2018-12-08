@@ -31,7 +31,7 @@ Please note that you must have a working C compiler and Python in your path for
 * [Installing Node on Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 * [npm errors on Windows](http://stackoverflow.com/questions/21365714/nodejs-error-installing-with-npm)
 * [Visual Studio Community 2015](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
-* [Python 2.7](https://www.python.org/downloads/)
+* [Pytho 2.7](https://www.python.org/downloads/)
 
 [Tuck 64 was kind enough to make a video walkthrough of the setup process](https://www.youtube.com/watch?v=H-82S2jFOII)
 
